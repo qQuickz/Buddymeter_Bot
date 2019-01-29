@@ -1,0 +1,14 @@
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\bin\Debug\BuddyBot.exe.config
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\bin\Debug\BuddyBot.exe
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\bin\Debug\BuddyBot.pdb
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.csprojResolveAssemblyReference.cache
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\Interop.MSHTML.dll
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.csproj.ResolveComReference.cache
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.Form1.resources
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.Properties.Resources.resources
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.csproj.GenerateResource.Cache
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.exe
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\obj\Debug\BuddyBot.pdb
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\bin\Debug\WebDriver.dll
+C:\Users\mert\source\repos\BuddyBot\BuddyBot\bin\Debug\WebDriver.xml
